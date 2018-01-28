@@ -8,4 +8,4 @@ Wow mate, that's a blog!
 
 ## Hall of fame
 
-[![Code Wars](https://www.codewars.com/users/hervito974/badges/large)](https://www.codewars.com/users/hervito974/badges/large)
+[![Code Wars](https://www.codewars.com/users/hervito974/badges/large)](https://www.codewars.com/users/hervito974)
