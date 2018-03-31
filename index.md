@@ -1,10 +1,18 @@
-# A super title...
+# Welcome!
 
-## ... and a super description
+## Still building, but the first article should be out soon!
 
-Let's try **thing**...
+Bonjour, I'm Hervé, a software developer with a chemical engineering background.
 
-Wow mate, that's a blog!
+I'm from here:
+
+![Reunion Island]({{ "/assets/reunion.gif" | absolute_url }})
+
+But, I'm living here at the moment:
+
+![London]({{ "/assets/london.gif" | absolute_url }})
+
+Yes, I know, I also quite often ask myself why...
 
 ## Hall of fame
 
