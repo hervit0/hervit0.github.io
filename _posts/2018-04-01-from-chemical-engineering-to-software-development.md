@@ -1,22 +1,22 @@
 # From chemical engineering to software development
 
-1st of April, 2016, Paris, _Gare du Nord_. With my backpack and my monitor in a bag, I onboard a Eurostar train to London with my cousin Tom and his wife Emma. I leave a chemical engineer position behind me, for a software developer one.
+1st of April, 2016, Paris, _Gare du Nord_. With my backpack and my monitor in a bag, I onboard a Eurostar train to London with my cousin Tom and his wife Emma. I left a chemical engineering position behind me, for a software developer one.
 
-The year is now 2018, I work for a company called [Driftrock](https://www.driftrock.com/): we boost the marketing power of our clients through social media. I'm a software developer there, taking care of an awesome microservices fleet with an heavily-skilled team and juggling between back-end, front-end and DevOps, using various programming languages to achieve our goals. Before that, I have spent more than a year at [The App Business](http://www.theappbusiness.com/), a mobile applications agency, where I was a junior software engineer, learning key concepts like Agile, testing and clean code.
+The year is now 2018, I work for a company called [Driftrock](https://www.driftrock.com/): we boost the marketing power of our clients through social media. I'm a software developer there, taking care of an awesome microservices fleet with a heavily-skilled team and juggling between back-end, front-end and DevOps, using various programming languages to achieve our goals. Before that, I had spent more than a year at [The App Business](http://www.theappbusiness.com/), a tech company with a specialisation in mobile technologies. There I was a junior software engineer, learning key concepts like Agile, testing and clean code.
 
-Time for a check-up after 2 years, isn't it?
+Time for a check-in after 2 years, isn't it?
 
 I want to share here some insights on my career switch. Personal opinions and experiences are exposed, in the most honest way possible, far be it from me to bash the chemical engineering industry, nor force any chemical engineers to shift away from their jobs! I am still keen to take any feedback and comments if you disagree.
 
 Unfortunately, I give here only the differences between a non-tech industry and the software industry, therefore, the purpose of this article is not about how to start your software engineer career (however, you can still drop me a message if you are looking for any pieces of advice).
 
-The differences between the British and the French way of working are not tackled here, it is a wide subject deserving a full and proper article (trailer: I am writing from London, which gives you a good idea of my humble opinion).
+The differences between the British and the French way of working are not tackled here, it is a wide subject deserving a full and proper article.
 
 ## Where it all began...
 
 With few words, the `Once upon a time` is: I grew up on a French island ([Reunion Island](https://www.google.co.uk/maps/place/Reunion/@-21.1351121,55.2471124,10z/data=!3m1!4b1!4m5!3m4!1s0x2178778110b8e43b:0x4a7f8e89ecdbeaf9!8m2!3d-21.115141!4d55.536384) - oversea territory), did a normal scholarship until my _baccalauréat_ (UK GCSE equivalent), attended to intensive courses in mathematics, physics and chemistry for 2 years (_Classe Preparatoire aux Grandes Ecoles_), was admitted into a national chemical engineering school ([ENSIC](https://ensic.univ-lorraine.fr/)) in the lovely town of Nancy (the Lorraine region, in the mainland), graduated after 3 years and found my first job as a chemical engineer in Paris.
 
-From that point, the career path was almost sealed: I would have spent the next decades in the same company (because it shows loyalty and mind diversity is not really good you know?), painfully risen through the ranks, fought against this silly bureaucracy where more senior people teach you what to do in a world they can no longer understand, gone in retirement at 70 years old with nothing (stay lucid, this is going to happen).
+From that point, the career path was almost sealed: I would have spent the next decades in the same company, painfully risen through the ranks, fought against this silly bureaucracy where seniority often results in adopting a more managerial role and becoming removed from technical processes, and then gone in retirement at 70 years old.
 
 Fortunately enough, I did not spend decades where I started. After only 2 years and a half in Paris, doing the same repetitive and boring tasks, under an awful and stressful management, I was on my knees, dreamless and buried below this dull routine under morphine.
 
@@ -25,7 +25,7 @@ Like I said few lines above, I won't give any tips to set someone on the right t
 
 ## Timescale and feedback loop are not the same
 
-Let's start with the most obvious one: velocity of execution is nothing but comparable.
+Let's start with the most obvious one: velocity of execution.
 
 When you are designing a chemical plant, from the moment you are starting to design a pump to the moment where you press the button to kick it off, there might be years. Besides, pushing the button will not ensure you that it will work.
 The timescale in the software industry is completely different: if I write this line in [Elixir](https://elixir-lang.org/) `String.upcase("bonjour")`, it will only take me few seconds to know if it works and if it's shippable to production or not.
@@ -41,8 +41,8 @@ Of course, it sometimes does not work, but the existence of this kind of framewo
 
 ## A perpetual evolution
 
-When you work in an industry which is relying on fundamental sciences (chemistry, physics, mathematics), unless your industry is a very specific R&D one, you are often using old and solid principles, which have been discovered over the past 500 years, sometimes more for some core mathematics concepts.
-Therefore, designing a chemical plant roughly consists in applying mature scientific principles. All the beauty of this kind of engineering is to know whenever using the appropriate theorem or the correct formula. This level of scientific maturity gives an enjoyable reliability while designing plants: for instance, you can be sure that gravity will suddenly stop working tomorrow.
+When you work in an industry which is relying on fundamental sciences (chemistry, physics, mathematics), unless your industry is a very specific R&D one, you are often using well-established and solid principles, which have been discovered over the past 500 years, sometimes more for some core mathematics concepts.
+Therefore, designing a chemical plant roughly consists in applying mature scientific principles. All the beauty of this kind of engineering is to know whenever using the appropriate theorem or the correct formula. This level of scientific maturity gives an enjoyable reliability while designing plants: for instance, you can be sure that gravity won't suddenly stop working tomorrow.
 Don't get me wrong here, even if there is no discovery every day in the chemical engineering area, it's a solid and experienced engineering, which, first and foremost, works and generates results.
 
 The software industry is relatively a young one, which has taken off over the last century. Given that, we are constantly battlefield testing tools and frameworks, discovering things, striving to issue best practices and standards...
@@ -81,7 +81,7 @@ As I started as a chemical engineer, two main destinies stood out:
 Of course, I only describe (maybe with a little exaggeration) the paths for a chemical engineer in an engineering office context, chemical engineer on production fields (e.g. offshore platforms) is something very different.
 
 Things are shaped differently in the software industry. As long as you can write a line of code, you can become: software developer, data scientist/analyst, automation/manual tester, DevOps engineer, embedded software engineer, software architect, implementation engineer...
-Furthermore, upgrading your role level is pretty fair and is based on your skills, rather than being based on non-scientific parameters like the number of years spent with the role of "chief manager of a team composed of me and myself", or how grey my hair is (or no hair at all). If someone has all the required potential to reach the Moon, just let her/him go.
+Furthermore, upgrading your role level is usually fair and is based on your skills, rather than being based on non-scientific parameters like the number of years spent with the role of "chief manager of a team composed of me and myself", or how grey my hair is (or no hair at all). If someone has all the required potential to reach the Moon, just let her/him go.
 
 Also, the industries where chemical engineers are pretty defined in the marble (it is inherent in the fact that chemistry cannot be applied in finance for instance). Most of my former colleagues from engineering school ended up in those industries: oil and gas, pharmaceutical, consumer goods, high-specialized products (e.g. polymers) and nuclear.
 When you think about software, you can find pieces of software everywhere. To an extent, as a developer, you can work for whatever you believe in: charity, weather forecasting, finance, marketing, mobile applications, spatial, military, navigation...
@@ -100,7 +100,7 @@ But how to capitalize this know-how and prove your battlefield abilities for a f
 
 ## Side projects and own experimentations
 
-Sadly, you cannot assemble your own nuclear reactor in your garden as a weekend hobby (or you would be in trouble, wouldn't you?). Or you cannot mount an industrial methanol pump in your garage. Difficult to make your husband/wife digest: "Just to see if it works".
+Sadly, you cannot assemble your own nuclear reactor in your garden as a weekend hobby (or you would be in trouble, wouldn't you?). Or you cannot mount an industrial methanol pump in your garage. Difficult to make your partner digest: "Just to see if it works".
 
 By contrast, if you want to create a website for your personal hobby, or design an Android application for your children, or experimenting a framework or a language, all you need is... a computer.
 Most of us have a public [Github](https://github.com/) account where we are exposing our personal projects and experiments. Don't worry, even if you copy-paste some snippets of code from here and there, I dare you to provision it correctly, run it, deploy it and maintain it. As you reach these lines, you have realized a while ago that a software developer is not just writing lines of code.
@@ -109,6 +109,9 @@ Most of us have a public [Github](https://github.com/) account where we are expo
 
 There are still billions of things to say, but I will wrap up this article with these points:
 - the community is awesome and always aims towards excellence: I have stopped counting meetups, conventions, conferences that I have been to during these past 2 years. But I can give you for sure the number of chemical engineering events I attended during 2 years and a half: 0.
-- the majority of our technologies is open-source, meaning that you can always contribute to the latest and advanced framework if you want. Money for sure is a powerful motivation engine, but passion is the most rewarding one.
+- the majority of our technologies are open-source, meaning that you can always contribute to the latest and advanced framework if you want. Money for sure is a powerful motivation engine, but passion is the most rewarding one.
+- a lot of techniques and ideas used in software are from other industries. For instance, the [Kanban](https://www.versionone.com/what-is-kanban/) framework for software delivery is from the manufacturing industry, or the way [message brokers](https://www.rabbitmq.com/) behave under intense traffic is very similar to a complex system of pressure relief valves. We hope that someday the other industries will grab the best techniques from the software industry (e.g. powerful version control mentioned few paragraphs above).
 
 And you, what have you done these past few years? Where are you heading off for the next decade?
+
+_A massive thanks to all the reviewers and their honesties. A special thanks to [Emily](https://github.com/emilywoods), she brought a lot of value to many points (she does that to almost everything she touches!). Her thorough review did matter to me: not only she was a former chemical engineer her-self, but also we've been working together... as software developers!_
