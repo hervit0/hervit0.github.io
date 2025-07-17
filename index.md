@@ -1,19 +1,25 @@
-# Welcome!
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
 
-## Still building, but the first article should be out soon!
+hero:
+  name: "My Awesome Project"
+  text: "A VitePress Site"
+  tagline: My great project tagline
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
 
-Bonjour, I'm Hervé, a software developer with a chemical engineering background.
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+---
 
-I'm from here:
-
-![Reunion Island]({{ "/assets/reunion.gif" | absolute_url }})
-
-But, I'm living here at the moment:
-
-![London]({{ "/assets/london.gif" | absolute_url }})
-
-Yes, I know, I also quite often ask myself why...
-
-## Hall of fame
-
-[![Code Wars](https://www.codewars.com/users/hervito974/badges/large)](https://www.codewars.com/users/hervito974)
