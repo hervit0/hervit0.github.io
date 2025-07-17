@@ -15,7 +15,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: Reading
-      link: /reading
+      link: /docs/reading
 
 features:
   - title: Feature A
