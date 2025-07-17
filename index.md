@@ -7,7 +7,7 @@ hero:
   text: Get to know me better
   tagline: My great project tagline
   image:
-    src: /public/favicon.ico
+    src: /favicon.ico
     alt: VitePress
   actions:
     - theme: brand

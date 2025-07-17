@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   head: [
-    ['link', {rel: 'icon', href: '/public/favicon.ico'}]
+    ['link', {rel: 'icon', href: '/favicon.ico'}]
   ],
   title: "Hello, I'm Hervé",
   description: "Get to know me better",
