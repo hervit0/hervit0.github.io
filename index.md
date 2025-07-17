@@ -3,16 +3,19 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: Hello, I'm Hervé!
+  text: Get to know me better
   tagline: My great project tagline
+  image:
+    src: /public/favicon.ico
+    alt: VitePress
   actions:
     - theme: brand
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Reading
+      link: /reading
 
 features:
   - title: Feature A
