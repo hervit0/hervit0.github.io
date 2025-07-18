@@ -17,6 +17,9 @@ hero:
       text: Technical background
       link: /docs/me/technical
     - theme: brand
+      text: Work experiences
+      link: /docs/me/work-experiences
+    - theme: brand
       text: Reading
       link: /docs/me/reading
     - theme: brand
