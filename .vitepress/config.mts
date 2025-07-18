@@ -29,7 +29,7 @@ export default defineConfig({
       {
         text: 'Articles',
         items: [
-          { text: 'First', link: '/docs/articles/2025-07-18-first' }
+          // { text: 'First', link: '/docs/articles/2025-07-18-first' }
         ]
       }
     ],
@@ -40,7 +40,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/hervit0' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/herv%C3%A9-ah-leung-40401b90/?locale=en_US' }
     ]
   }
 })

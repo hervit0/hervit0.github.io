@@ -7,6 +7,7 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
+    "predocs:deploy": "npm run docs:build",
     "docs:deploy": "npx gh-pages -d .vitepress/dist"
   },
   "keywords": [],
