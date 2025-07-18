@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   head: [
-    ['link', {rel: 'icon', href: '/favicon.ico'}]
+    ['link', {rel: 'icon', href: '/public/favicon.ico'}]
   ],
   title: "Welcome 👋",
   description: "Get to know me better",
@@ -22,12 +22,13 @@ export default defineConfig({
           { text: 'About me', link: '/docs/me/background' },
           { text: 'Technical background', link: '/docs/me/technical' },
           { text: 'Reading', link: '/docs/me/reading' },
+          { text: 'Projects', link: '/docs/me/projects' },
         ]
       },
       {
         text: 'Articles',
         items: [
-          { text: 'Articles', link: '/docs/articles/2025-07-18-first' }
+          { text: 'First', link: '/docs/articles/2025-07-18-first' }
         ]
       }
     ],

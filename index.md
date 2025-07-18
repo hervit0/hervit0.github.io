@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: Hello, I'm Hervé!
-  text: Get to know me better
-  tagline: My great project tagline
+#  text: Get to know me better
+  tagline: Welcome to my universe
   image:
     src: /favicon.ico
     alt: VitePress
@@ -19,6 +19,10 @@ hero:
     - theme: brand
       text: Reading
       link: /docs/me/reading
+    - theme: brand
+      text: Projects
+      link: /docs/me/projects
+      
 
 features:
   - title: About me
@@ -31,4 +35,3 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /docs/me/reading
 ---
-
