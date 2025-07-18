@@ -11,18 +11,24 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
+      text: About me
+      link: /docs/me/background
+    - theme: brand
+      text: Technical background
+      link: /docs/me/technical
+    - theme: brand
       text: Reading
-      link: /docs/reading
+      link: /docs/me/reading
 
 features:
-  - title: Feature A
+  - title: About me
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+    link: /docs/me/background
+  - title: Technical background
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+    link: /docs/me/technical
+  - title: Reading list
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /docs/me/reading
 ---
 

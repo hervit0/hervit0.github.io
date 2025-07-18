@@ -5,36 +5,36 @@ export default defineConfig({
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}]
   ],
-  title: "Hello, I'm Hervé",
+  title: "Welcome 👋",
   description: "Get to know me better",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Me', link: '/docs/me' },
-      { text: 'Articles', link: '/markdown-examples' }
+      { text: 'Me', link: '/docs/me/background' },
+      { text: 'Articles', link: '/docs/articles/2025-07-18-first' }
     ],
 
     sidebar: [
       {
         text: 'Me',
         items: [
-          { text: 'About me', link: '/docs/me' },
-          { text: 'Reading', link: '/docs/reading' },
+          { text: 'About me', link: '/docs/me/background' },
+          { text: 'Technical background', link: '/docs/me/technical' },
+          { text: 'Reading', link: '/docs/me/reading' },
         ]
       },
       {
         text: 'Articles',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Articles', link: '/docs/articles/2025-07-18-first' }
         ]
       }
     ],
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025-present Herve'
+      copyright: 'Copyright © 2025-present Hervé'
     },
 
     socialLinks: [
