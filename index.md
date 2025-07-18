@@ -22,16 +22,9 @@ hero:
     - theme: brand
       text: Projects
       link: /docs/me/projects
-      
 
 features:
-  - title: About me
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /docs/me/background
-  - title: Technical background
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /docs/me/technical
-  - title: Reading list
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /docs/me/reading
+  - title: WFH, the end?
+    details: Why are we observing a surge of return to the office policy?
+    link: /docs/articles/2025-07-18-first
 ---
