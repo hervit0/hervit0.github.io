@@ -15,6 +15,7 @@ A strong advocate of clean code, TDD, and automation.
 
 These skills are my sharpest ones, but during my career I had exposure on many other languages/framework/platforms:
 - Scala, Elixir, Ruby, Elm, F#, C#, Java, JavaScript, Haskell
+- Docker
 - React
 - Kubernetes
 - Jenkins, BuildKite
