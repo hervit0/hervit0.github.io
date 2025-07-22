@@ -1,5 +1,7 @@
 # Projects 👷
 
+I always tend to have one side project.
+
 - [Wedfie](https://hervit0.github.io/wedfie-public/), a photo booth mobile/browser friendly for wedding, an authentication-free version will be published soon!
 - [Takamaka](https://hervit0.github.io/takamaka), a brain puzzle made with **React**
 - [Light](https://hervit0.github.io/unity-test), a 2D platform game made with **Unity** [WIP]

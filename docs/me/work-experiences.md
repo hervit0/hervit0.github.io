@@ -9,9 +9,9 @@
 
 Telecommunication industry
 
-We develop software solutions so then our customers have the phone communications safer.
+We develop software solutions so then our customers have their phone communications safer.
 
-- Design/build/extend/maintain numerous internal/client-facing webapp and APIs
+- Design/build/extend/maintain numerous internal/client-facing webapps and APIs
 - Collaborate closely with the Product team to ensure we deliver continuous value to our customers
 - Ensure the code base is always in a high-level standard
 - Mentor junior and mid-level engineers
