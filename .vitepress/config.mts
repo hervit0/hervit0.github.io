@@ -39,7 +39,9 @@ export default defineConfig({
       copyright: 'Copyright © 2025-present Hervé'
     },
 
+    // https://simpleicons.org/?q=email
     socialLinks: [
+      { icon: 'maildotru', link: 'mailto:herveherveherve@aol.com' },
       { icon: 'github', link: 'https://github.com/hervit0' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/herv%C3%A9-ah-leung-40401b90/?locale=en_US' }
     ]
