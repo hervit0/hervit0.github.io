@@ -15,11 +15,17 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "gh-pages": "^6.3.0",
-    "vitepress": "^1.6.3",
     "@vue/eslint-config-prettier": "^10.2.0",
+    "@vuepress/plugin-icon": "^2.0.0-rc.112",
     "eslint-plugin-vue": "~10.0.0",
+    "gh-pages": "^6.3.0",
     "prettier": "3.5.3",
+    "vitepress": "^1.6.3",
     "vue": "^3.5.17"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/vue-fontawesome": "^3.0.8"
   }
 }

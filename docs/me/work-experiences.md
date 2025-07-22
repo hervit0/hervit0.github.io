@@ -7,7 +7,7 @@
 <Badge type="tip" vertical="bottom" text="Typescript"/>
 <Badge type="tip" vertical="bottom" text="Scala"/>
 
-Telecommunication industry
+Telecommunication/fraud prevention industry
 
 We develop software solutions so then our customers have their phone communications safer.
 
@@ -17,19 +17,20 @@ We develop software solutions so then our customers have their phone communicati
 - Mentor junior and mid-level engineers
 
 I was also lucky to be part of:
+
 - the audit teams (ISO/process reviews)
 - CSIRT committee (Computer Security Incident Response Team)
 - company music band
 
 ### Senior Software Engineer
 
-*January 2020 - Present*
+<ExperienceMeta start="01/2020" end="Present" location="London" />
 
 Fraud prevention software teams
 
 ### Software Engineer
 
-*January 2019 - January 2020*
+<ExperienceMeta start="01/2019" end="01/2020" location="London" />
 
 Fraud prevention software team
 
@@ -42,11 +43,11 @@ Business continuity team
 <Badge type="tip" vertical="bottom" text="Elixir"/>
 <Badge type="tip" vertical="bottom" text="Ruby"/>
 
-Automotive/ads industry
+Automotive Lead Generation Platform industry
 
 ### Software Engineer
 
-*November 2017 - December 2018*
+<ExperienceMeta start="11/2017" end="12/2018" location="London" />
 
 Full-stack experience
 
@@ -60,13 +61,14 @@ Hired and mentored junior software engineers
 <Badge type="tip" vertical="bottom" text="C#"/>
 <Badge type="tip" vertical="bottom" text="Java"/>
 
-Mobile applications industry
+Mobile applications industry at the time
 
 ### Junior Software Engineer
 
-*September 2016 - November 2017*
+<ExperienceMeta start="09/2016" end="11/2017" location="London" />
 
 Projects for clients:
+
 - Europe's leading home improvement retailer
 - National leading transport operator
 - National weather service
@@ -75,7 +77,7 @@ Mainly server-side/ops activities
 
 ### Intern Software Engineer
 
-*June 2016 - September 2016*
+<ExperienceMeta start="06/2016" end="09/2016" location="London" />
 
 QA experience
 
@@ -87,7 +89,7 @@ High performance materials industry
 
 ### Process Engineer
 
-*February 2014 - March 2016*
+<ExperienceMeta start="02/2014" end="03/2016" location="Paris" />
 
 Designed a new molecular sieves production unit
 
@@ -97,13 +99,14 @@ Nuclear industry
 
 ### Chemical Process Engineer
 
-*December 2013 - January 2014*
+<ExperienceMeta start="12/2013" end="01/2014" location="Paris" />
 
 Review of high-pressure equipments
 
 ### Process Calculation Engineer
 
 *August 2012 - September 2013*
+<ExperienceMeta start="08/2012" end="09/2013" location="Bagnols-sur-Cèze" />
 
 Work-study internship
 
