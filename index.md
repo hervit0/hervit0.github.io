@@ -27,7 +27,7 @@ hero:
       link: /docs/me/projects
 
 features:
-  - title: WFH, the end?
-    details: Why are we observing a surge of return to the office policy?
-    link: /docs/articles/2025-07-18-first
+  - title: I created a game that I can't beat
+    details: When Wordle and RGB have a kid.
+    link: /docs/articles/2025-08-01-argeebeedle
 ---
