@@ -19,6 +19,9 @@ hero:
     - theme: brand
       text: Work experiences
       link: /docs/me/work-experiences
+#    - theme: brand
+#      text: Feedback
+#      link: /docs/me/feedback
     - theme: brand
       text: Reading
       link: /docs/me/reading

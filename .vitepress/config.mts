@@ -22,6 +22,7 @@ export default defineConfig({
                     {text: 'About me', link: '/docs/me/background'},
                     {text: 'Technical background', link: '/docs/me/technical'},
                     {text: 'Work experiences', link: '/docs/me/work-experiences'},
+                    // {text: 'Feedback', link: '/docs/me/feedback'},
                     {text: 'Reading', link: '/docs/me/reading'},
                     {text: 'Projects', link: '/docs/me/projects'},
                 ]
