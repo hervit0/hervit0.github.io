@@ -1,1 +1,59 @@
-# I created a game that I can't beat
+# Argeebeedle: When Wordle Met the World of Colors
+
+> [I created a game I can't beat...](https://hervit0.github.io/argeebeedle/)
+
+## Gamer one day, gamer every day
+
+I am an avid player of [Wordle](https://www.nytimes.com/games/wordle/index.html), and all of its variants (as a musician, special mention to [Bandle](bandle.app)). Playing video games, solving riddles, puzzles etc is one of my core components, so I wanted to create a Wordle-like game, but I didn't know what to base it on, e.g. shall I make people guess a movie title, a music note, a celebrity, etc?
+
+And then I thought about colours, there are many (many) ways to represent colours, the two most common ones are:
+- by the [hexadecimal](https://www.w3schools.com/html/html_colors_hex.asp) value (HEX): `#1ecbe1` is yellow-ish
+- by the [RGB](https://en.wikipedia.org/wiki/RGB_color_model) value (RGB): `(3, 94, 252)` is blue-ish
+
+The latter retained my attention for the following reasons:
+- the 3 values represent the amount of red, green and blue in the colour, that value varies from 0 (none) to 255 (100%)
+- the name RGB stands for Red, Green and Blue, so there is no to little effort to map the numbers to the colours, e.g. (1 ,2 ,3) means red is 1, green is 2 and blue is 3
+- it is based on the additive color model, it is a fancy name, but it just boils down to the colour painting we mix when we are in primary school: mixing equally a bit of red and green painting will give a yellow mixtures, blue and red will give purple, etc etc
+
+It is then fairly intuitive for a non-technical person to understand the RGB system:
+- `(255, 0, 0)` is probably quite red
+- `(0, 255, 0)` is probably quite green
+- `(0, 0, 255)` is probably quite blue
+- `(250, 250, 0)` is probably something yellow-ish
+- `(250, 0, 250)` is probably something purple-ish
+- etc
+
+The only edge cases that might be tricky to know are:
+- `(0, 0, 0)` is black
+- `(255, 255, 255)` is white
+
+So the idea would be: display a colour, make the user guess the RGB value of the colour, and set the Wordle structure accordingly (6 guesses, feedback after a guess, leaderboard etc).
+
+Then I prospected what already existed...
+
+## "But it's already done, so you can't do it again"
+
+Nah, don't ever let anyone saying that to you:
+- you can always come up with something better
+- add new features
+- have new ideas
+
+Having said that, the existing wordle-clones are pretty good! With good names as well:
+
+- [Colourdle](https://colourdle.co.uk/)
+- [Colordle](https://colordle.ryantanen.com/)
+- [Colorfle](https://colorfle.com/)
+
+Following my own piece of advice, I decided to carry one and create "RGB-dle", or (if you haven't figured it out yet) "Argeebeedle"!
+
+## Game logic
+
+TODO
+
+## Technical considerations
+
+TODO
+
+## Reflections and takeaways
+
+TODO

@@ -13,7 +13,7 @@ I was born in [Réunion Island](https://www.google.com/maps?sca_esv=4770e45ba07b
 
 I got graduated with an Msc in chemical engineering in 2013, from there I worked in Paris for 3 years as a chemical engineer. I slowly realised that it was for me and decided to switch to software engineering. I arrived in the UK in 2016, got my first job as software engineer in London, never left the UK since, it was the best decision I could have made.
 
-I wrote an [article] about it.
+I wrote an [article](https://medium.com/@hervit0/from-chemical-engineering-to-software-development-9bb827fa1887) about it.
 
 ## Education
 

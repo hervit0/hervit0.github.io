@@ -10,9 +10,9 @@ export default defineConfig({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            {text: 'Home', link: '/'},
-            {text: 'Me', link: '/docs/me/background'},
-            {text: 'Articles', link: '/docs/articles/2025-08-01-argeebeedle'}
+            {text: '🏠 Home', link: '/'},
+            {text: '🤵🏻‍♂️ Me', link: '/docs/me/background'},
+            {text: '📰 Articles', link: '/docs/articles/2025-08-01-argeebeedle'}
         ],
 
         sidebar: [
