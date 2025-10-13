@@ -7,16 +7,18 @@
 <Badge type="tip" vertical="bottom" text="Typescript"/>
 <Badge type="tip" vertical="bottom" text="Scala"/>
 
-Telecommunication/fraud prevention industry
+Telecommunication/fraud prevention industry - [website](https://smartnumbers.com/about-us/)
+
+> Our solutions help protect organisations from downstream fraud by ensuring the contact centre stays secure. Through our consortium of customers and partners, we enable organisations to work together to fight fraud by sharing intelligence and best practice.
 
 We develop software solutions so then our customers have their phone communications safer.
 
-- Led and design numerous internal/client-facing webapps and APIs, worked on the company 2 major webapps and 50+ microservices, always having security, scalability, resilience in mind. The only outages in 7 years were due to third party services.
-- Successfully transformed a legacy product (10 microservices) written in Scala into a modern high-standard Golang application, while we had customers using it. The change was invisible to the customer, no outage or downtime observed.
-- Collaborate closely with the Product and Design teams to ensure we deliver continuous value to our customers. I participated to many customer-facing discovery and feedback sessions to understand their needs directly from them. 
-- Mentor many junior and mid-level engineers, most of them have reached seniority level successfully
-- Strong presence in conferences (AWS and Golang mainly), to share knowledge and experience and keeping up-to-date on the technologies/frameworks/techniques. I also did a successful talk about microservices at conf42.
-- Contributed to ISO audit readiness and served on CSIRT (Computer Security Incident Response Team), the company never failed to retain all the ISO and certifications.
+- Led and designed numerous internal and client-facing web apps and APIs; worked on the company’s two major web apps and over 50 microservices, always keeping security, scalability, and resilience in mind. The only outages in seven years were due to third-party services. Some greenfield projects I worked on from inception helped to seal multi-million-pound contracts with the biggest banks in the UK.
+- Successfully transformed a legacy product (10 microservices) written in Scala into a modern, high-standard Golang application while it was actively used by customers. The migration was invisible to users, with no outages or downtime.
+- Collaborated closely with the Product and Design teams to ensure continuous value delivery to customers. Participated in numerous customer-facing discovery and feedback sessions to understand their needs directly.
+- Mentored many junior and mid-level engineers, most of whom successfully reached senior level.
+- Maintained a strong presence at conferences (mainly AWS and Golang), sharing knowledge and experience while staying up-to-date on technologies, frameworks, and techniques. Also delivered a successful talk on microservices at Conf42.
+- Contributed to ISO audit readiness and served on the CSIRT (Computer Security Incident Response Team). The company has never failed to retain all its ISO and security certifications.
 
 ### Senior Software Engineer
 
@@ -39,7 +41,10 @@ Business continuity team
 <Badge type="tip" vertical="bottom" text="Elixir"/>
 <Badge type="tip" vertical="bottom" text="Ruby"/>
 
-Automotive Lead Generation Platform industry
+Automotive Lead Generation Platform industry - [website](https://www.driftrock.com/)
+
+> The All-In-One Automotive Lead Generation Platform
+Drive more leads, improve the quality of leads, and measure the impact on sales.
 
 ### Software Engineer
 
@@ -57,7 +62,9 @@ Hired and mentored junior software engineers
 <Badge type="tip" vertical="bottom" text="C#"/>
 <Badge type="tip" vertical="bottom" text="Java"/>
 
-Mobile applications industry at the time
+Mobile applications industry at the time - [website](https://www.valtech.com/)
+
+It has changed several times since, Kin+Carta, then Valtech. 
 
 ### Junior Software Engineer
 
