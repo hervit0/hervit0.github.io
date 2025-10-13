@@ -4,7 +4,7 @@
 
 ## Gamer one day, gamer every day
 
-I am an avid player of [Wordle](https://www.nytimes.com/games/wordle/index.html), and all of its variants (as a musician, special mention to [Bandle](bandle.app)). Playing video games, solving riddles, puzzles etc is one of my core components, so I wanted to create a Wordle-like game, but I didn't know what to base it on, e.g. shall I make people guess a movie title, a music note, a celebrity, etc?
+I am an avid player of [Wordle](https://www.nytimes.com/games/wordle/index.html), and all of its variants (as a musician, special mention to [Bandle](https://bandle.app/menu)). Playing video games, solving riddles, puzzles etc is one of my core components, so I wanted to create a Wordle-like game, but I didn't know what to base it on, e.g. shall I make people guess a movie title, a music note, a celebrity, etc?
 
 And then I thought about colours, there are many (many) ways to represent colours, the two most common ones are:
 - by the [hexadecimal](https://www.w3schools.com/html/html_colors_hex.asp) value (HEX): `#1ecbe1` is yellow-ish
