@@ -11,16 +11,12 @@ Telecommunication/fraud prevention industry
 
 We develop software solutions so then our customers have their phone communications safer.
 
-- Design/build/extend/maintain numerous internal/client-facing webapps and APIs
-- Collaborate closely with the Product team to ensure we deliver continuous value to our customers
-- Ensure the code base is always in a high-level standard
-- Mentor junior and mid-level engineers
-
-I was also lucky to be part of:
-
-- the audit teams (ISO/process reviews)
-- CSIRT committee (Computer Security Incident Response Team)
-- company music band
+- Led and design numerous internal/client-facing webapps and APIs, worked on the company 2 major webapps and 50+ microservices, always having security, scalability, resilience in mind. The only outages in 7 years were due to third party services.
+- Successfully transformed a legacy product (10 microservices) written in Scala into a modern high-standard Golang application, while we had customers using it. The change was invisible to the customer, no outage or downtime observed.
+- Collaborate closely with the Product and Design teams to ensure we deliver continuous value to our customers. I participated to many customer-facing discovery and feedback sessions to understand their needs directly from them. 
+- Mentor many junior and mid-level engineers, most of them have reached seniority level successfully
+- Strong presence in conferences (AWS and Golang mainly), to share knowledge and experience and keeping up-to-date on the technologies/frameworks/techniques. I also did a successful talk about microservices at conf42.
+- Contributed to ISO audit readiness and served on CSIRT (Computer Security Incident Response Team), the company never failed to retain all the ISO and certifications.
 
 ### Senior Software Engineer
 
