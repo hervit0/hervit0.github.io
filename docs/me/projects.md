@@ -26,7 +26,7 @@ Proud to say that there was no error and amazing latencies on the day!
 
 [Play here!](https://hervit0.github.io/takamaka)
 
-A puzzle-brain that I made during confinement, crack the riddles to through the maze.
+A brain teaser puzzle that I made during confinement, crack the riddles to through the maze.
 
 Made with React, Typescript.
 

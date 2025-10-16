@@ -64,7 +64,7 @@ Hired and mentored junior software engineers
 
 Mobile applications industry at the time - [website](https://www.valtech.com/)
 
-It has changed several times since, Kin+Carta, then Valtech. 
+It has changed name several times since, Kin+Carta, then Valtech. 
 
 ### Junior Software Engineer
 

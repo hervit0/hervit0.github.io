@@ -12,7 +12,7 @@ export default defineConfig({
         nav: [
             {text: '🏠 Home', link: '/'},
             {text: '🤵🏻‍♂️ Me', link: '/docs/me/background'},
-            {text: '📰 Articles', link: '/docs/articles/2025-08-01-argeebeedle'}
+            {text: '📰 Articles', link: '/docs/articles/2'}
         ],
 
         sidebar: [
@@ -30,8 +30,8 @@ export default defineConfig({
             {
                 text: 'Articles',
                 items: [
-                    // { text: 'First', link: '/docs/articles/2025-07-18-first' }
-                    {text: 'Argeebeedle', link: '/docs/articles/2025-08-01-argeebeedle'}
+                    {text: 'Working From Home', link: '/docs/articles/1'},
+                    {text: 'Argeebeedle', link: '/docs/articles/2'}
 
                 ]
             }
@@ -44,7 +44,7 @@ export default defineConfig({
 
         // https://simpleicons.org/?q=email
         socialLinks: [
-            {icon: 'maildotru', link: 'mailto:herveherveherve@aol.com'},
+            {icon: 'maildotru', link: 'mailto:herve.ahleung@outlook.com'},
             {icon: 'github', link: 'https://github.com/hervit0'},
             {icon: 'linkedin', link: 'https://www.linkedin.com/in/herv%C3%A9-ah-leung-40401b90/?locale=en_US'}
         ]
