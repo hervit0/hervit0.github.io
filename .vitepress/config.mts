@@ -44,7 +44,7 @@ export default defineConfig({
 
         // https://simpleicons.org/?q=email
         socialLinks: [
-            {icon: 'maildotru', link: 'mailto:herve.ahleung@outlook.com'},
+            {icon: 'maildotru', link: 'mailto:herve.software@gmail.com'},
             {icon: 'github', link: 'https://github.com/hervit0'},
             {icon: 'linkedin', link: 'https://www.linkedin.com/in/herv%C3%A9-ah-leung-40401b90/?locale=en_US'}
         ]
