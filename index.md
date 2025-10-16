@@ -33,7 +33,7 @@ features:
   - title: I created a game that I can't beat
     details: When Wordle and RGB have a kid.
     link: /docs/articles/2
-  - title: WFH
-    details: A matter of trust.
-    link: /docs/articles/1
+#  - title: WFH
+#    details: A matter of trust.
+#    link: /docs/articles/1
 ---

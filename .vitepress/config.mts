@@ -30,7 +30,7 @@ export default defineConfig({
             {
                 text: 'Articles',
                 items: [
-                    {text: 'Working From Home', link: '/docs/articles/1'},
+                    // {text: 'Working From Home', link: '/docs/articles/1'},
                     {text: 'Argeebeedle', link: '/docs/articles/2'}
 
                 ]
