@@ -1,4 +1,4 @@
-# Reading 📖
+# Reading
 
 ## Current
 
