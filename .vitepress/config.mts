@@ -46,7 +46,7 @@ export default defineConfig({
         socialLinks: [
             {icon: 'maildotru', link: 'mailto:herve.software@gmail.com'},
             {icon: 'github', link: 'https://github.com/hervit0'},
-            {icon: 'linkedin', link: 'https://www.linkedin.com/in/herv%C3%A9-ah-leung-40401b90/?locale=en_US'}
+            {icon: 'linkedin', link: 'hwww.linkedin.com/in/herve-ah-leung'}
         ]
     }
 })

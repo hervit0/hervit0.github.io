@@ -1,5 +1,17 @@
 # Projects
 
+## MTG life counter
+
+[Here!](https://hervit0.github.io/life)
+
+My main passion at the moment is [Magic The Gathering](https://magic.wizards.com/en), an amazing card game.
+
+During that multiplayer game, the life points of the different players have to be tracked, so I created a life counter with multiple useful features.
+
+Made with Vue 3, full client-side software.
+
+It is still a WIP project, especially for the artistic direction...
+
 ## Argeebeedle
 
 [Play here!](https://hervit0.github.io/argeebeedle/)
