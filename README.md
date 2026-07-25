@@ -1,5 +1,5 @@
 # Deploy
 
 ```shell
-npm run docs:deploy
+pnpm run docs:deploy
 ```
