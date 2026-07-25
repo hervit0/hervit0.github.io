@@ -1,19 +1,39 @@
-# Welcome!
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
 
-## Still building, but the first article should be out soon!
+hero:
+  name: Hello, I'm Hervé!
+#  text: Get to know me better
+  tagline: Welcome to my universe
+  image:
+    src: /favicon.ico
+    alt: VitePress
+  actions:
+    - theme: brand
+      text: About me
+      link: /docs/me/background
+    - theme: brand
+      text: Technical background
+      link: /docs/me/technical
+    - theme: brand
+      text: Work experiences
+      link: /docs/me/work-experiences
+#    - theme: brand
+#      text: Feedback
+#      link: /docs/me/feedback
+    - theme: brand
+      text: Reading
+      link: /docs/me/reading
+    - theme: brand
+      text: Projects
+      link: /docs/me/projects
 
-Bonjour, I'm Hervé, a software developer with a chemical engineering background.
-
-I'm from here:
-
-![Reunion Island]({{ "/assets/reunion.gif" | absolute_url }})
-
-But, I'm living here at the moment:
-
-![London]({{ "/assets/london.gif" | absolute_url }})
-
-Yes, I know, I also quite often ask myself why...
-
-## Hall of fame
-
-[![Code Wars](https://www.codewars.com/users/hervito974/badges/large)](https://www.codewars.com/users/hervito974)
+features:
+  - title: I created a game that I can't beat
+    details: When Wordle and RGB have a kid.
+    link: /docs/articles/2
+#  - title: WFH
+#    details: A matter of trust.
+#    link: /docs/articles/1
+---

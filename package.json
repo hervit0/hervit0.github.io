@@ -1,0 +1,32 @@
+{
+  "name": "hervit0.github.io",
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.8.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "predocs:deploy": "pnpm run docs:build",
+    "docs:deploy": "pnpm exec gh-pages -d .vitepress/dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "@vuepress/plugin-icon": "^2.0.0-rc.112",
+    "eslint-plugin-vue": "~10.10.0",
+    "gh-pages": "^6.3.0",
+    "prettier": "3.9.6",
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.17"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.3.1",
+    "@fortawesome/free-solid-svg-icons": "^7.3.1",
+    "@fortawesome/vue-fontawesome": "^3.3.3"
+  }
+}
