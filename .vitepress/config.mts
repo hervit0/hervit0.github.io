@@ -31,6 +31,9 @@ function draftFilesIn(dir: string): string[] {
 
 const draftArticles = draftFilesIn('docs/articles')
 
+// Reference/instructional docs, never real pages, regardless of environment.
+const alwaysExcluded = ['docs/articles/TEMPLATE.md']
+
 function articleFile(link: string): string {
     return `${link.replace(/^\//, '')}.md`
 }
@@ -46,7 +49,7 @@ export default defineConfig({
     // `.vitepress/dist` and therefore from what `docs:deploy` pushes to
     // GitHub Pages. In `vitepress dev` this list is empty, so drafts render
     // normally while working on them locally.
-    srcExclude: isProd ? draftArticles : [],
+    srcExclude: [...alwaysExcluded, ...(isProd ? draftArticles : [])],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
