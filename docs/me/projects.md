@@ -44,6 +44,16 @@ Made with React, Typescript.
 
 My CTO has been harassing me since to have Takamaka part 2.
 
+<!--
+## Nova Vera
+
+[Read the article](/docs/articles/3)
+
+An AI-assisted pipeline: yesterday's top news across the bias spectrum, turned into a branded Instagram carousel, reviewed and edited in a browser before publishing.
+
+Made with Java, Quarkus, React, TypeScript, a local LLM (Ollama) and local image generation (ComfyUI). Local-only, no deployment yet.
+-->
+
 ## Others in WIP
 
 - [Light](https://hervit0.github.io/unity-test), a 2D platform game made with **Unity** [WIP]
